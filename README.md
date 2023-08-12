@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Gomdollee&fontSize=50)
-### Hi there 👋
-#### My name is junwon Lee 
-#### I am a full-stack develope
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Gomdollee🧸&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<h3 align="center"> 
+ Hi there 👋<br><br>
+ My name is junwon Lee<br><br>
+ I am a full-stack develope
+</h3>
+
+<br>
+  
 <h3 align="center"> 📚Tech Stack📚 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -15,7 +20,7 @@
 </p>
 
 
-<h3 align="center">🌈 Contact 🌈</h3>
+<h3 align="center">🔔 Contact 🔔</h3>
 <p align="center">
   <a href="https://cogomlife.tistory.com">
        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -24,3 +29,13 @@
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>&nbsp
 </p>
+
+<h3 align="center">🚢 My Github ⛵</h3>
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomdollee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomdollee)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
