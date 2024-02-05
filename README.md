@@ -2,7 +2,6 @@
 <h3 align="center"> 
  Hi there 👋<br><br>
  My name is junwon Lee<br><br>
- I am a full-stack develope
 </h3>
 
 <br>
