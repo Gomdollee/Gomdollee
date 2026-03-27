@@ -48,13 +48,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomdollee&show_icons=true&theme=default&cache_seconds=60)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gomdollee&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomdollee&layout=compact&cache_seconds=60)
+<br><br>
+
+<img src="https://ghchart.rshah.org/Gomdollee" />
 
 </div>
 
@@ -69,5 +71,3 @@
 </a>
 
 </div>
-
----
