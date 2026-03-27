@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/QueryDSL-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat"/>
 
 <br>
 
