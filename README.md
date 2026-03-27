@@ -1,55 +1,73 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gomdollee🧸&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="center">
 
-<h3 align="center">👋 Hi, I'm <strong>Junwon Lee</strong></h3>
-<p align="center">A backend developer who enjoys solving problems and improving systems through clean architecture and collaboration.</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Junwon%20Lee&height=200&section=header&fontSize=40)
 
-<br>
+### 👋 안녕하세요, 백엔드 개발자 이준원입니다
+
+문제를 구조적으로 해결하는 개발자를 지향합니다.  
+데이터 흐름과 성능 개선에 관심이 많습니다.
+
+</div>
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+## 🧑‍💻 About Me
+
+- 대량 데이터 처리 및 배치 시스템에 관심
+- DB 성능 개선 경험
+- 트랜잭션 / 동시성 문제 해결 고민
+- 유지보수 가능한 구조 설계 지향
+
+---
+
+## 🛠 Tech Stack
+
 <div align="center">
 
-<!-- Backend -->
+### Backend
 <img src="https://img.shields.io/badge/Java%2017-007396?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/QueryDSL-FF6F00?style=flat"/>
 
 <br>
 
-<!-- Database -->
+### Database
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tibero-0054A6?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tibero-0054A6?style=flat"/>
 
 <br>
 
-<!-- Infra / Tools -->
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+### Infra
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-
-<br>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
 
 </div>
 
 ---
 
-<h3 align="center">🔔 Contact</h3>
-<p align="center">
-  <a href="https://www.instagram.com/95_lee.j.w">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
+## 📊 GitHub Stats
 
----
-
-<h3 align="center">🚢 My Github ⛵</h3>
 <div align="center">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomdollee&show_icons=true&theme=default&cache_seconds=60)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomdollee&layout=compact&cache_seconds=60)
+
 </div>
+
+---
+
+## 📌 Contact
+
+<div align="center">
+
+<a href="https://www.instagram.com/95_lee.j.w">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
